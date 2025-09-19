@@ -79,6 +79,7 @@ This document is a collection of resources for learning embedded systems enginee
     - [Bit Manipulation](#bit-manipulation)
         - [Bitwise](#bitwise)
         - [Arithmetic](#arithmetic)
+        - [Leetcode problems](#arithmetic)
     - [Interrupts](#interrupts)
     - [Optimizations](#optimizations)
     - [Coding Standards](#coding-standards)
