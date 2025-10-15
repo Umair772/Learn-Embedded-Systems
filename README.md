@@ -105,6 +105,23 @@ This document is a collection of resources for learning embedded systems enginee
                 - [Semaphore](#semaphore)
                 - [Event Handling](#event-handling)
                 - [Producer-Consumer](#producer-consumer)
+             
+            -  [Stack](#stack)
+             
+            - [LinkedList](#linkedlist)
+                - [Singly linkedlists](#singlylinkedlists)
+                - [Double ljnkedlists](#doublylinkedlists)
+             
+            - [BFS](#BFS)
+            - [DFS](#DFS)
+            - [Binary search](#Binarysearch)
+            - [Concurrency](#Concurrency)
+            - [2 pointers](#2pointers)
+            - [Sliding window](#Slidingwindow)
+            - [Sorting algorithms](#Sortingalgorithms)
+                - [Merge sort](#mergesort)
+                - [Bucket sort](#bucketsort)
+      
 
         - [Domain Knowledge](#domain-knowledge)
             - [Digital Signal Processing](#digital-signal-processing)
@@ -126,7 +143,8 @@ This document is a collection of resources for learning embedded systems enginee
     - [JTAG](#jtag)
     - [SWD](#swd)
 - [Testing and Quality Management](#testing-and-quality-management)
-- [Networking concepts](#testing-and-quality-management)
+- [Networking concepts](#Networkingconcepts)
+- [Open source](#opensource)
 
 ---
 ---
