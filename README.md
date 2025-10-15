@@ -557,3 +557,5 @@ Software engineering — Guidelines for the application of ISO 9001:2015 to comp
 - [ ] [Playlist: "Embedded Software Testing", YouTube](https://www.youtube.com/playlist?list=PL_DQiOR0jhbU3ZKyYIV9oxfcqXTpbK4Le)
 
 - [ ] [Playlist: "Embedded Security, Safety, and Software Quality", YouTube](https://www.youtube.com/playlist?list=PL_DQiOR0jhbXFZtjw6U-19X0jPDmg4UoR)
+
+## Networking concepts
