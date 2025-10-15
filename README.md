@@ -126,6 +126,7 @@ This document is a collection of resources for learning embedded systems enginee
     - [JTAG](#jtag)
     - [SWD](#swd)
 - [Testing and Quality Management](#testing-and-quality-management)
+- [Networking concepts](#testing-and-quality-management)
 
 ---
 ---
